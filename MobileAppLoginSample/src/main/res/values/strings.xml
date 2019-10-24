@@ -11,10 +11,13 @@
     <string name="label_backend">M-Pin backend:</string>
     <string name="button_login">Login</string>
     <string name="button_delete">Delete</string>
+    <string name="message_invalid_verification_uri">Invalid verification link</string>
 
     <!-- M-Pin configuration -->
     <string name="mpin_backend" formatted="false" translatable="false">https://api.mpin.io</string>
     <string name="mpin_cid" formatted="false" translatable="false"></string>
+    <string name="mpin_client_id" formatted="false" translatable="false"></string>
+    <string name="mpin_redirect_uri" formatted="false" translatable="false"></string>
 
     <!-- Custom service configuration -->
     <string name="access_code_service_base_url" formatted="false" translatable="false"></string>
